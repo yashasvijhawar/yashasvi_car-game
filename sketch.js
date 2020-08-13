@@ -1,4 +1,4 @@
-ar car,wall;
+var car,wall;
 var speed,weight;
 
 
